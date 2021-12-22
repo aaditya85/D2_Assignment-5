@@ -1,0 +1,30 @@
+.page_wrapper{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+   
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+}
+#blue{
+    background-color: blue;
+    float: right;
+}
+#red{
+    background-color: red;
+    margin-top: 100px;
+    float: right;
+}
+#green{
+    background-color: green;
+    float: right;
+    margin-top: 200px;
+}
+#yellow{
+    background-color: yellow;
+    float: right;
+    margin-top: 300px;
+}
